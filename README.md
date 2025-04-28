@@ -1,16 +1,38 @@
-## Hi there 👋
-
-<!--
-**nopjo/nopjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+                                ┌──────────────────────────────────────────────────────────────────┐
+                                │                                                                  │
+                                │  $ whoami                                                        │
+                                │  > nopjo (Jonah)                                                 │
+                                │                                                                  │
+                                │  $ cat skills.txt                                                │
+                                │  > Programming Languages:                                        │
+                                │    ├── C++                                                       │
+                                │    ├── C#                                                        │
+                                │    ├── Lua                                                       │
+                                │    ├── Python                                                    │
+                                │    └── TypeScript                                                │
+                                │                                                                  │
+                                │  $ ps -ef | grep interests                                       │
+                                │  > nopjo  1337 ?    00:00:01 reverse_engineering                 │
+                                │  > nopjo  1338 ?    00:00:01 malware_analysis                    │
+                                │  > nopjo  1339 ?    00:00:01 full_stack_development              │
+                                │  > nopjo  1340 ?    00:00:01 useless_projects                    │
+                                │                                                                  │
+                                │  $ ./current_status                                              │
+                                │  > [██████████████████████░░░░]  89%                             │
+                                │  > Building useless projects...                                  │
+                                │                                                                  │
+                                │  $ finger nopjo                                                  │
+                                │  > Login: nopjo                   Name: Jonah                    │
+                                │  > Directory: /home/uk            Shell: /bin/software_engineer  │
+                                │  > Status: Software Engineer in the UK                           │
+                                │                                                                  │
+                                │  $ netstat -t | grep social                                      │
+                                │  > tcp    ESTAB  0   0   localhost:discord      jonahw           │
+                                │  > tcp    ESTAB  0   0   localhost:telegram     jonahcmd         │
+                                │                                                                  │
+                                │  $ echo "Feel free to connect!"                                  │
+                                │  > Feel free to connect!                                         │
+                                │                                                                  │
+                                └──────────────────────────────────────────────────────────────────┘
+```
